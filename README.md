@@ -4,7 +4,7 @@
 
 
 
-Now we classify based on countries of similar weather. 2% toleration has been taken into account during considering weather similarity.
+Now we classify based on countries of similar weather. 2% toleration has been taken into account during considering weather similarity(http://www.codeminders.com/).
 Countries are:
 ## Country/Region
 
