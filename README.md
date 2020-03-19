@@ -1,6 +1,9 @@
 # Covic-19-Trend-Bangladesh
 ## Prediction for 19 March and 20 March
 ![Alt text](https://github.com/MahirMahbub/Covic-19-Trend-Bangladesh/blob/master/similar%20weather.jpg "Optional Title")
+
+
+
 Now we classify based on countries of similar weather. 2% toleration has been taken into account during considering weather similarity.
 Countries are:
 ## Country/Region
