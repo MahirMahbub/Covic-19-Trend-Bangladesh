@@ -1,13 +1,14 @@
 # Covic-19-Trend-Bangladesh
-## Affected Prediction for 19 March, 20 March and 21 March
+## Affected Prediction for 18 March, 19 March and 20 March
 
 ### Every two days prediction:
 
-#### 19 March: 3 man,    &nbsp; &nbsp; 20 March: 2 man
+#### 18 March: 3 man,    &nbsp; &nbsp; 19 March: 2 man
 
-#### 20 March: 3 man,    &nbsp; &nbsp; 21 March: 8 man
+#### 19 March: 3 man,    &nbsp; &nbsp; 20 March: 8 man
 
-#### 21 March: 7 man,    &nbsp; &nbsp; 22 March: 5 man
+#### 20 March: 7 man,    &nbsp; &nbsp; 21 March: 5 man
+## Data for training taken until 14th March 2020 from 22 January 2020
 
 
 
@@ -40,4 +41,4 @@ Countries are:
 
 ### 12	Honduras
 
-## Data taken until 14th March 2020 from 22 January 2020
+
