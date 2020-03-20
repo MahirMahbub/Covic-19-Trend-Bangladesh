@@ -3,11 +3,11 @@
 
 ### Every two days prediction:
 
-#### 18 March: 3 man,    &nbsp; &nbsp; 19 March: 2 man
+#### 18 March: 3 men,    &nbsp; &nbsp; 19 March: 2 men
 
-#### 19 March: 3 man,    &nbsp; &nbsp; 20 March: 8 man
+#### 19 March: 3 men,    &nbsp; &nbsp; 20 March: 8 men
 
-#### 20 March: 7 man,    &nbsp; &nbsp; 21 March: 5 man
+#### 20 March: 7 men,    &nbsp; &nbsp; 21 March: 5 men
 ## Data for training taken until 14th March 2020 from 22 January 2020
 
 
