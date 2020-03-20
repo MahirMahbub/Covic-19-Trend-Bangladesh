@@ -2,11 +2,11 @@
 ## Affected Prediction for 19 March, 20 March and 21 March
 Every two days prediction:
 
-19 March: 3 man,    20 March: 2 man
+### 19 March: 3 man,    ###   20 March: 2 man
 
-20 March: 3 man,    21 March: 8 man
+### 20 March: 3 man,    ###   21 March: 8 man
 
-21 March: 7 man,    22 March: 5 man
+### 21 March: 7 man,    ###   22 March: 5 man
 
 
 
